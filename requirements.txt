@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+tensorflow
+scikit-learn
+binance
+plotly
+joblib
